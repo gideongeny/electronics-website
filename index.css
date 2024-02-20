@@ -1,0 +1,18 @@
+h1{
+    color: #5b0c0c;
+    font-size: 50px;
+}
+h4{
+    color: rgb(229, 133, 15);
+    font-size: 50px;
+}
+body{
+    background-image: url("picture_1.jpg");
+    color: yellow;
+    font-size: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+

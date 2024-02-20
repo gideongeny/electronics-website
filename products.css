@@ -1,0 +1,35 @@
+h1{
+    color: #5b0c0c;
+    font-size: 50px;
+}
+h4{
+    color: rgb(229, 133, 15);
+    font-size: 50px;
+}
+body{
+    
+    background-image:url("picture_1.jpg");
+    color: yellow;
+    font-size: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+img{
+   border-width: 20px;
+border-color: green;
+border-style:ridge;
+width: 300px;
+height: 300px;
+border-radius: 150px;
+clip-path: circle();
+border-color: rgb(10, 50, 120);
+
+}
+p{color: rgb(179, 41, 41)}
+
+
+
+ 
